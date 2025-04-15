@@ -7,3 +7,12 @@
     background: #38853b;
     color: #FFF;
 }
+
+.link-color{
+    color: #38853b;
+}
+
+.text-translate{
+    transform: translateY(-70%);
+    background: #FFF;
+}
